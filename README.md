@@ -1,4 +1,4 @@
-# pdaicode.github.io
+# GeneseAI
 
 Business website
 
